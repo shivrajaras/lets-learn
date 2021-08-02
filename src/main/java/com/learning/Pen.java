@@ -11,7 +11,7 @@ import java.util.Arrays;
  * actions ->   writing
  * access specifiers -> public,package,protected,private
  * 
- * name convention -> start with  $,characher,_
+ * name convention -> start with  $,characher,_ (class name we are following start with Capital letter whereas method name in smallcase camelcase)
  * 
  * 
  * static and instance
